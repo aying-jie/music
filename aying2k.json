@@ -1,0 +1,177 @@
+{
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/阿英.jar",
+  "wallpaper": "阿英音乐：荧屏流光曲悠扬，心随律动梦徜徉",
+  "logo": "./java/logo.jpg",
+  "lives": [
+    {
+      "name": "阿英live",
+      "type": 0,
+      "playerType": 2,
+      "url": "./java/libb/yinyue.png"
+    }
+  ],
+  "sites": [
+    {
+      "key": "哔哩",
+      "name": "阿英音乐台",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/哔哩MTV.json"
+    },
+    {
+      "key": "js_车载MV",
+      "name": "阿英-车载音乐",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/车载MV.js"
+    },
+    {
+      "key": "yinyue",
+      "name": "阿英-榜单音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "分类音乐",
+      "name": "阿英-分类音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/yinyue.json"
+    },
+    {
+      "key": "hipy_js_KTV歌厅[听]",
+      "name": "阿英-明星歌厅",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/KTV歌厅.js"
+    },
+    {
+      "key": "TAOIktv",
+      "name": "阿英-明星备用",
+      "type": 3,
+      "api": "csp_WexIktv",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/wex.txt",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "舞蹈音乐",
+      "name": "阿英-舞蹈音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/吾爱舞蹈.json"
+    },
+    {
+      "key": "哟哟音乐",
+      "name": "阿英-动感哟哟",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/DJyyyyw.json"
+    },
+    {
+      "key": "酷奇",
+      "name": "阿英-酷奇MV",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "吾爱演唱会",
+      "name": "阿英-哔哩演唱",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/吾爱演唱会.json"
+    },
+    {
+      "key": "直播转点播",
+      "name": "阿英-音乐点播",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/zbzdb.js",
+      "ext": "http://www.jielifan.com/data/f_85446651.png"
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "阿英-蜻蜓FM",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/蜻蜓FM.js",
+      "playerType": "2"
+    },
+    {
+      "key": "hipy_js_种子音乐[听]",
+      "name": "阿英-种子音乐",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/drpy3.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/种子音乐[听].js"
+    },
+    {
+      "key": "hipy_js_贝乐虎[儿]",
+      "name": "阿英-贝乐儿歌",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/drpy3.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/贝乐虎[儿].js"
+    },
+    {
+      "key": "健身瑜伽",
+      "name": "阿英-健身瑜伽",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/aying-jie/music/refs/heads/main/libb/哔哩合集2.json"
+    },
+    {
+      "key": "公告",
+      "name": "阿英音乐：请定期清缓存",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "changeable": 0
+    }
+  ]
+}
